@@ -1,0 +1,21 @@
+/*
+     Written by: Joebert Paul T. Dela cruz
+     Date: Nov. 28, 2022
+     Yr&Sec: 2022-2023 BSIT-1D
+
+     This program prints/display my details.
+    
+     Output:
+         Name:        Joebert Paul T. Dela cruz
+         Address:     Del pilar, Tagudin, Ilocos Sur
+         Contact no.: 09518765224
+ */
+
+     #include <stdio.h> {
+      
+     int main() {
+         printf("Name:        Joebert Paul T. Dela cruz/n"); 
+         printf("Address:     Del pilar, Tagudin, Ilocos Sur/n");
+         printf("Contact no.: 09518765224/n");
+
+    }
